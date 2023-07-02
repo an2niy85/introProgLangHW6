@@ -1,0 +1,15 @@
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\bin\Debug\net7.0\41.exe
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\bin\Debug\net7.0\41.deps.json
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\bin\Debug\net7.0\41.runtimeconfig.json
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\bin\Debug\net7.0\41.dll
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\bin\Debug\net7.0\41.pdb
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.csproj.AssemblyReference.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.AssemblyInfoInputs.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.AssemblyInfo.cs
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.csproj.CoreCompileInputs.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.dll
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\refint\41.dll
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.pdb
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\41.genruntimeconfig.cache
+C:\Users\an2niy85\repos\gb_ItoPC#_hw6\41\obj\Debug\net7.0\ref\41.dll
